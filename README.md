@@ -46,6 +46,7 @@ AI agents in production can silently drain budgets through retry loops, model es
 - **[Helicone](https://helicone.ai/)** — LLM proxy with cost analytics and caching
 - **[Datadog LLM Observability](https://www.datadoghq.com/product/llm-observability/)** — Enterprise LLM monitoring
 - **[Weights & Biases](https://wandb.ai/)** — ML experiment tracking with LLM support
+- **[Tokenr](https://tokenr.co)** — LLM cost attribution and FinOps for multi-agent systems
 
 ## Guides & Articles
 
