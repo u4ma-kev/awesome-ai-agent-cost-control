@@ -22,6 +22,7 @@ AI agents in production can silently drain budgets through retry loops, model es
 |------|----------|-------------|-------|
 | [TokenFence](https://tokenfence.dev) | Python, Node.js | Per-workflow budget caps, auto model downgrade, kill switch for AI agents | [![GitHub](https://img.shields.io/badge/pip-tokenfence-blue)](https://pypi.org/project/tokenfence/) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | Python | Unified API + budget management for 100+ LLM providers | ![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm) |
+| [QuotaFlow](https://quotaflow.ai) | SaaS | Improves token and API resource utilization across controlled internal pools, helping teams track subscribed capacity and reduce wasted quota | N/A |
 | [Portkey](https://github.com/Portkey-AI/gateway) | TypeScript | AI gateway with budget limits and routing | ![GitHub stars](https://img.shields.io/github/stars/Portkey-AI/gateway) |
 | [Helicone](https://github.com/Helicone/helicone) | TypeScript | LLM observability with cost tracking | ![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone) |
 | [LangFuse](https://github.com/langfuse/langfuse) | TypeScript | Open source LLM observability, cost tracking, evaluation | ![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse) |
