@@ -39,6 +39,8 @@ AI agents in production can silently drain budgets through retry loops, model es
 
 *Prices as of March 2026. Check provider pages for current rates.*
 
+- [AIHOT API Pricing](https://aihot.news/leaderboard/prices) — Compare published input, output, and cache-hit rates per million tokens in CNY.
+
 ## Observability & Monitoring
 
 - **[LangSmith](https://smith.langchain.com/)** — LangChain's observability platform with cost tracking
